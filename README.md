@@ -5,7 +5,7 @@ Thanks for your interest in Primephonic and for taking the time to do our iOS co
 Your task is to write an iOS application which displays some basic information of flights currently in the air. For this, we'll be using the `OpenSky Network` public API:
 
 - API Documentation can be found here: `https://opensky-network.org/apidoc/rest.html`
-- Only the following endpoint should be used: `GET /flights/all`
+- Only the following endpoint should be used: `GET /states/all`
 
 The application should be made up of 2 screens:
 
